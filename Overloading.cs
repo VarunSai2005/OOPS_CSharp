@@ -2,6 +2,14 @@ using System;
 
 namespace OOPS_CSharp;
 
+/*
+Method Overloading
+1. Multiple methods of same name in single class.
+2. No need of inheritance, as it is in single class.
+3. All methods have different signature.
+4. It’s a compile time polymorphism. 
+5. No special keyword used.
+*/
 public class Adding
 {
     public int Add(int a, int b)
